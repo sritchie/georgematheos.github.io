@@ -73,7 +73,7 @@ social:
 highlight_name: true
 ---
 
-I'm a 1st year PhD student at MIT studying computer science.  My research is advised by [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/), [Josh Tenenbaum](https://cocosci.mit.edu/josh), and [Leslie Kaelbling](https://people.csail.mit.edu/lpk/).
+I'm a 2nd year PhD student at MIT studying computer science.  My research is advised by [Vikash Mansinghka](http://probcomp.csail.mit.edu/principal-investigator/), [Josh Tenenbaum](https://cocosci.mit.edu/josh), and [Leslie Kaelbling](https://people.csail.mit.edu/lpk/).
  <!-- and [Josh Tenenbaum](https://cocosci.mit.edu/josh) -->
 
 I recently completed my undergraduate studies in math and computer science at UC Berkeley.  At Berkeley, my research was advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/).
